@@ -6,6 +6,14 @@ I'm a student in **D4 Teknologi Rekayasa Komputer** at **Politeknik Caltex Riau*
 
 My current focus is **binary exploitation (PWN)**: learning through CTF challenges, debugging, and hands-on practice.
 
+## Projects & learning
+
+| Repository | What's inside | Status |
+| --- | --- | --- |
+| [PWN Lab](https://github.com/V3ldust/pwn-lab) | Local C labs, Python solutions, and vulnerability fixes | First ret2win lab available |
+| [CTF Writeups](https://github.com/V3ldust/ctf-writeups) | Challenge analysis and solution notes | Template ready; writeups to come |
+| [Security Tools](https://github.com/V3ldust/security-tools) | Small security utilities | Planned; no tools published yet |
+
 ## What I'm learning
 
 - **Binary exploitation** — stack buffer overflows, ret2win, and format string vulnerabilities.
